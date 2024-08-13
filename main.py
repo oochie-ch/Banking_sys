@@ -1,4 +1,6 @@
 def main():
+    account_list = []
+    num_of_accounts =0
     """Main function to run the banking system."""
     while True:
         show_menu()
